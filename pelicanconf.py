@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = '40423139'
-SITENAME = '40423139上課報告'
+SITENAME = '40423139 2017springcd_hw'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
