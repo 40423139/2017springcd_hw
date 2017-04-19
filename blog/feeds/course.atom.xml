@@ -1,55 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139 2017springcd_hw</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-30T00:00:00+08:00</updated><entry><title>20170330 W6</title><link href="./40423139w6.html" rel="alternate"></link><published>2017-03-30T00:00:00+08:00</published><updated>2017-03-30T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-30:./40423139w6.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139 2017springcd_hw</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-30T00:00:00+08:00</updated><entry><title>20170330 W6</title><link href="./40423139w6.html" rel="alternate"></link><published>2017-03-30T00:00:00+08:00</published><updated>2017-03-30T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-30:./40423139w6.html</id><summary type="html">&lt;p&gt;用onshape完成四連桿和八連桿的繪製和組裝&lt;/p&gt;
 
-&lt;p&gt;八連桿影片：待補&lt;/p&gt;
-&lt;p&gt;零件1繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209551257" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551257"&gt;2017-03-22_19-36-54&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;零件2繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209551229" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;onshape四連桿零件繪製&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213890929" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551229"&gt;2017-03-22_19-31-43&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;零件3繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209551204" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/213890929"&gt;2017-04-20_01-10-45 4連桿繪製&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;onshape四連桿組合繪製&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/213890942" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551204"&gt;2017-03-22_19-43-13&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;組合圖影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209551706" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/213890942"&gt;2017-04-20_01-26-10 4連桿組合&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170323 W5</title><link href="./40423139w5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-23:./40423139w5.html</id><summary type="html">&lt;p&gt;one_link轉入V-REP&lt;/p&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551706"&gt;2017-03-22_19-46-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;零件繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450485" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450485"&gt;錄製_2017_03_08_20_31_32_732&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;組合影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450999" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450999"&gt;錄製_2017_03_08_20_43_01_921&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;V-rep&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201825" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201825"&gt;2017-03-20_20-47-53&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape四連桿零件繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201623" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201623"&gt;2017-03-20_19-33-43&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape四連桿組裝&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201739" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201739"&gt;2017-03-20_20-17-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape  V-rep&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209203077" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209203077"&gt;2017-03-20_21-05-30&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w6"></category></entry><entry><title>20170323 W5</title><link href="./40423139w5.html" rel="alternate"></link><published>2017-03-23T00:00:00+08:00</published><updated>2017-03-23T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-23:./40423139w5.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;轉入V-REP影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/212936906" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/213890908" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/212936906"&gt;2017-04-12_23-34-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/213890908"&gt;2017-04-19_22-26-44 VREP&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;零件1繪製影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209551257" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -65,8 +31,8 @@
 &lt;p&gt;組合圖影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209551706" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551706"&gt;2017-03-22_19-46-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170316 w4</title><link href="./40423139-4.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-16:./40423139-4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
-
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551706"&gt;2017-03-22_19-46-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w5"></category></entry><entry><title>20170316 w4</title><link href="./40423139-4.html" rel="alternate"></link><published>2017-03-16T00:00:00+08:00</published><updated>2017-03-16T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-16:./40423139-4.html</id><summary type="html">&lt;p&gt;solvespace繪畫one_link
+&lt;/p&gt;
 &lt;p&gt;one_link&lt;/p&gt;
 &lt;p&gt;零件1繪製影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209551257" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -83,34 +49,8 @@
 &lt;p&gt;組合圖影片&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209551706" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551706"&gt;2017-03-22_19-46-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;零件繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450485" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209551706"&gt;2017-03-22_19-46-23&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170309 w3</title><link href="./40423139-3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-09:./40423139-3.html</id><summary type="html">&lt;p&gt;翻譯影片&lt;/p&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450485"&gt;錄製_2017_03_08_20_31_32_732&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;組合影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450999" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450999"&gt;錄製_2017_03_08_20_43_01_921&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;V-rep&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201825" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201825"&gt;2017-03-20_20-47-53&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape四連桿零件繪製&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201623" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201623"&gt;2017-03-20_19-33-43&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape四連桿組裝&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209201739" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/209201739"&gt;2017-03-20_20-17-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Onshape  V-rep&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/209203077" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/209203077"&gt;2017-03-20_21-05-30&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w4"></category></entry><entry><title>20170309 w3</title><link href="./40423139-3.html" rel="alternate"></link><published>2017-03-09T00:00:00+08:00</published><updated>2017-03-09T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-09:./40423139-3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;翻譯影片&lt;/p&gt;
 &lt;p&gt;小組分工第一部&lt;/p&gt;
@@ -273,18 +213,10 @@ Simlab是關於自動化，自動化，自動化.&lt;/p&gt;
 &lt;p&gt;V-rep&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209201825" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/209201825"&gt;2017-03-20_20-47-53&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170302 W2</title><link href="./40423139.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./40423139.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209201825"&gt;2017-03-20_20-47-53&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w3"></category></entry><entry><title>20170302 W2</title><link href="./40423139.html" rel="alternate"></link><published>2017-03-02T00:00:00+08:00</published><updated>2017-03-02T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-03-02:./40423139.html</id><summary type="html">&lt;p&gt;Solve Space四連桿,Onshape四連桿繪製&lt;/p&gt;
 
 
 &lt;p&gt;四連桿機構:&lt;/p&gt;
-&lt;p&gt;solvespace零件繪製影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450485" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450485"&gt;錄製_2017_03_08_20_31_32_732&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;solvespace連桿組合影片&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207450999" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450999"&gt;錄製_2017_03_08_20_43_01_921&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;Onshape四連桿零件繪製&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209201623" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -293,7 +225,16 @@ Simlab是關於自動化，自動化，自動化.&lt;/p&gt;
 &lt;p&gt;Onshape四連桿組裝&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/209201739" width="640" height="306" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/209201739"&gt;2017-03-20_20-17-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>20170225 W1</title><link href="./40423139W1.html" rel="alternate"></link><published>2017-02-25T00:00:00+08:00</published><updated>2017-02-25T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-25:./40423139W1.html</id><summary type="html">&lt;p&gt;四連桿機構&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/209201739"&gt;2017-03-20_20-17-19&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;solvespace零件繪製影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/207450485" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450485"&gt;錄製_2017_03_08_20_31_32_732&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;solvespace連桿組合影片&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/207450999" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/207450999"&gt;錄製_2017_03_08_20_43_01_921&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w2"></category></entry><entry><title>20170225 W1</title><link href="./40423139W1.html" rel="alternate"></link><published>2017-02-25T00:00:00+08:00</published><updated>2017-02-25T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-25:./40423139W1.html</id><summary type="html">&lt;p&gt;Solve Space完成四連桿&lt;/p&gt;
 
 
 &lt;p&gt;四連桿機構:&lt;/p&gt;
