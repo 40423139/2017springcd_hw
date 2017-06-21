@@ -8,9 +8,71 @@
 &lt;p&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/p&gt;
 
 
-&lt;h2&gt;1.&lt;/h2&gt;
+&lt;h2&gt;1.各組員倉儲中的 Github 檔案推送&lt;/h2&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/222511935" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/222511935"&gt;2017-06-21_21-12-22&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;h2&gt;2.&lt;/h2&gt;
+&lt;h2&gt;2.各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中&lt;/h2&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
+
+&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+// 設定 data/py 為共用程式路徑
+brython({debug:1, pythonpath:['./../data/py']});
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫兩條直線 --&gt;
+
+&lt;canvas id="fourbar" width="800" height="600"&gt;&lt;/canvas&gt;
+
+&lt;div id="container1"&gt;&lt;/div&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+
+#繪製第一隻腳
+ctx.beginPath()
+ctx.moveTo(180,420)
+ctx.lineTo(320,480)
+ctx.lineTo(345.714,420)
+ctx.lineTo(303.688,401.999)
+ctx.lineTo(435.261,153.022)
+ctx.lineTo(387.984,128.037)
+ctx.lineTo(256.441,377.004)
+ctx.lineTo(207.424,356.01)
+ctx.lineTo(180,420)
+ctx.fillStyle="blue"
+ctx.fill()
+
+#繪製第二隻腳
+ctx.beginPath()
+ctx.moveTo(406.02,128.666)
+ctx.lineTo(357.119,150.3)
+ctx.lineTo(471.046,407.819)
+ctx.lineTo(424.218,433.268)
+ctx.lineTo(457.46,494.438)
+ctx.lineTo(591.29,421.709)
+ctx.lineTo(560.121,364.353)
+ctx.lineTo(519.947,386.185)
+ctx.lineTo(406.02,128.666)
+ctx.fillStyle="red"
+ctx.fill()
+
+&lt;/script&gt;
+
+&lt;script src="https://gist.github.com/40423107/6aa055ac8f5375be79e231a05a383c20.js"&gt;&lt;/script&gt;
+
 &lt;h2&gt;3.先創兩個新倉儲 g100和 ag100&lt;/h2&gt;
 &lt;p&gt;一樣設好分支 gh-pages&lt;/p&gt;
 &lt;p&gt;然後 git clone 下來&lt;/p&gt;
@@ -35,7 +97,21 @@
 
 &lt;iframe src="./../final/9526.html" width="800" height="600"&gt;&lt;/iframe&gt;
 
-&lt;iframe src="./../final/9525.html" width="800" height="600"&gt;&lt;/iframe&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h1&gt;繪製、製作四足行走機構&lt;/h1&gt;
+&lt;iframe src="./../final/9525.html" width="800" height="600"&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;5.各組員 Solvespace 零件轉入 V-rep, 並設定驅動零件進行動態模擬&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/f8KJVaB"&gt;&lt;img src="http://i.imgur.com/f8KJVaB.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/222521206" width="640" height="343" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222521206"&gt;2017-06-21_22-14-24&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;6.各組員說明在分組行走機構模擬與實作過程中所扮演的角色, 並利用影片檔說明所負責完成的任務&lt;/h2&gt;
+&lt;p&gt;繪製設計各零件並完成實體製作與動畫&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/221532208" width="640" height="316" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/221532208"&gt;2017-06-14_12-47-26&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/h2&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h1&gt;繪製、製作四足行走機構&lt;/h1&gt;
 
 
 &lt;p&gt;四行走機構:本體上採用5個齒輪及1個馬達進行傳動，腳部為參考仿生獸之機構，再自行設計尺寸設計繪製，控制方面是使用ARDUINO控制伺服馬達進行走動。&lt;/p&gt;
