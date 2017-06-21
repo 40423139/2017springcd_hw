@@ -113,7 +113,14 @@ ctx.fill()
 
 &lt;p&gt;&lt;a href="https://vimeo.com/221532208"&gt;2017-06-14_12-47-26&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/h2&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h1&gt;繪製、製作四足行走機構&lt;/h1&gt;
+&lt;h2&gt;7.各組以協同方式整合各組組員所完成的倉儲, 網誌與操作影片後, 以學號名稱當作子目錄, 其中放入各組員上述各題所完成的操作影片後, 上傳到各組在系上的 Fossil SCM 倉儲, 並設法用各組的 Github Pages 進行分組簡報.&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://40423106.github.io/2017springcd_hw/blog/w17-xing-zou-ji-gou-2djing-tai-hui-tu.html"&gt;40423106&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423107.github.io/2017springcd_hw/blog/40423107W17.html"&gt;40423107&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423108.github.io/2017springcd_hw/blog/"&gt;40423108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423121.github.io/2017springcd_hw/blog/"&gt;40423121&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423125.github.io/2017springcd_hw/blog/wcm17.html"&gt;40423125&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423139.github.io/2017springcd_hw/blog/40423139W17.html"&gt;40423139&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://40423140.github.io/2017springcd_hw/blog/40423140w17.html"&gt;40423140&lt;/a&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h1&gt;繪製、製作四足行走機構&lt;/h1&gt;
 
 
 &lt;p&gt;四行走機構:本體上採用5個齒輪及1個馬達進行傳動，腳部為參考仿生獸之機構，再自行設計尺寸設計繪製，控制方面是使用ARDUINO控制伺服馬達進行走動。&lt;/p&gt;
