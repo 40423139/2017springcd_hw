@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139 2017springcd_hw</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-08T00:00:00+08:00</updated><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h2&gt;繪製四足行走機構&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423139 2017springcd_hw</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-06-15T00:00:00+08:00</updated><entry><title>協同產品設計實習20170225 W17</title><link href="./40423139W17.html" rel="alternate"></link><published>2017-06-15T00:00:00+08:00</published><updated>2017-06-15T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-15:./40423139W17.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="syllabus"></category><category term="w17"></category></entry><entry><title>協同產品設計實習20170225 W16</title><link href="./40423139W16.html" rel="alternate"></link><published>2017-06-08T00:00:00+08:00</published><updated>2017-06-08T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-08:./40423139W16.html</id><summary type="html">&lt;h1&gt;繪製、製作四足行走機構&lt;/h1&gt;
 
 
-&lt;h1&gt;各零件尺寸加工工作圖&lt;/h1&gt;
+&lt;p&gt;四行走機構:本體上採用5個齒輪及1個馬達進行傳動，腳部為參考仿生獸之機構，再自行設計尺寸設計繪製，控制方面是使用ARDUINO控制伺服馬達進行走動。&lt;/p&gt;
+&lt;h2&gt;各零件尺寸加工工作圖&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/RX0JFhi"&gt;&lt;img src="http://i.imgur.com/RX0JFhi.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;本體加工工作圖-1&lt;/h1&gt;
+&lt;h2&gt;本體加工工作圖-1&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/sByZ17N"&gt;&lt;img src="http://i.imgur.com/sByZ17N.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;本體加工工作圖-2&lt;/h1&gt;
+&lt;h2&gt;本體加工工作圖-2&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/Xp1612l"&gt;&lt;img src="http://i.imgur.com/Xp1612l.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;腳步機構零件系統圖&lt;/h1&gt;
+&lt;h2&gt;腳步機構零件系統圖&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/ck1eYKG"&gt;&lt;img src="http://i.imgur.com/ck1eYKG.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;平面組合圖&lt;/h1&gt;
+&lt;h2&gt;平面組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/thxUoz8"&gt;&lt;img src="http://i.imgur.com/thxUoz8.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;立體組合圖&lt;/h1&gt;
+&lt;h2&gt;立體組合圖&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/poHQvUr"&gt;&lt;img src="http://i.imgur.com/poHQvUr.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;完整機構行走模擬動畫&lt;/h1&gt;
+&lt;h2&gt;完整機構行走模擬動畫&lt;/h2&gt;
 &lt;iframe src="https://player.vimeo.com/video/221532208" width="640" height="316" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/221532208"&gt;2017-06-14_12-47-26&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="syllabus"></category><category term="w16"></category></entry><entry><title>協同產品設計實習20170225 W15</title><link href="./40423139W15.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-01:./40423139W15.html</id><summary type="html">&lt;p&gt;組員協同練習&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/221532208"&gt;2017-06-14_12-47-26&lt;/a&gt; from &lt;a href="https://vimeo.com/user57418042"&gt;曾繼緯&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;成品圖&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/ox1rQvu"&gt;&lt;img src="http://i.imgur.com/ox1rQvu.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/NuTmD2n"&gt;&lt;img src="http://i.imgur.com/NuTmD2n.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/Suxd3Nh"&gt;&lt;img src="http://i.imgur.com/Suxd3Nh.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="syllabus"></category><category term="w16"></category></entry><entry><title>協同產品設計實習20170225 W15</title><link href="./40423139W15.html" rel="alternate"></link><published>2017-06-01T00:00:00+08:00</published><updated>2017-06-01T00:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-06-01:./40423139W15.html</id><summary type="html">&lt;p&gt;組員協同練習&lt;/p&gt;
 
 
 &lt;h2&gt;1.&lt;/h2&gt;
